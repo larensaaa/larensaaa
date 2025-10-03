@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on mobile app projects as an intern, learning how to turn ideas into real apps.<br>👯 I’m looking to collaborate on app development and experimenting with new mobile technologies.<br>🤝 I’m looking for help with best practices in Flutter/Kotlin and optimizing app performance.<br>🌱 I’m currently learning Flutter, Kotlin, and how to connect apps with APIs and databases.<br>💬 Ask me about mobile development, debugging, or building functional apps.<br>⚡ Fun fact: I love turning coffee and sleep
+🔭 I’m currently working on mobile app projects.<br>👯 I’m looking to collaborate on app development and experimenting with new mobile technologies.<br>🤝 I’m looking for help with best practices in Fluttet and optimizing app performance.<br>🌱 I’m currently learning Flutter, Kotlin, and how to connect apps with APIs and databases.<br>💬 Ask me about mobile development, debugging, or building functional apps.<br>⚡ Fun fact: I love turning coffee and sleep
 
 
 # 💻 Tech Stack:
